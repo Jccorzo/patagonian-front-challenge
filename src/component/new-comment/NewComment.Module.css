@@ -1,0 +1,19 @@
+.container {
+    padding: 10px 20px 0px 20px;
+}
+
+.button {
+    color: white;
+    background-color: #007bff;
+    padding: 8px;
+    border-radius: 6px;
+    border: none
+}
+
+.input {
+    border: 1px solid #ced4da;
+    height: 30px;
+    padding: 8px;
+    border-radius: 6px;
+    margin: 0 5px;
+}

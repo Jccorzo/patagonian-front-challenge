@@ -1,0 +1,19 @@
+.container {
+    padding: 10px 20px 20px 20px;
+}
+
+.userInfo{
+    display: flex;
+    align-items: baseline;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 3px;
+}
+
+.email {
+    font-size: 14px;
+    margin-left: 5px;
+}
